@@ -1,0 +1,95 @@
+{
+  "id": "203f1160-5cec-41f9-8b54-c1be8078803d",
+  "name": "Practice",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a102c9b3-6584-4368-98c2-2b676ca290c8",
+          "name": "name",
+          "required": false,
+          "dataType": "@name",
+          "value": "$name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "95c75406-e632-4eb9-83c5-58855f78c3d3",
+          "name": "grade",
+          "required": false,
+          "dataType": "@grade",
+          "value": "$grade",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "41eb962b-e82e-46f2-9119-144c8000d23d",
+          "name": "department",
+          "required": false,
+          "dataType": "@department",
+          "value": "$department",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2c5c1e56-cab5-488e-afad-4f62b4adf517",
+          "name": "club",
+          "required": false,
+          "dataType": "@club",
+          "value": "$club",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "제 이름은 $name 입니다.",
+            "저는 $grade 입니다.",
+            "저는 $department 입니다.",
+            "저는 $club 입니다."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,147 @@
+[
+  {
+    "id": "705bb13b-207b-44f6-bca4-122a5fed2196",
+    "data": [
+      {
+        "text": "어느 ",
+        "userDefined": false
+      },
+      {
+        "text": "동아리",
+        "meta": "@club",
+        "alias": "club",
+        "userDefined": true
+      },
+      {
+        "text": " 소속인가요?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a6e04d5-b710-49c1-a75f-d49f8462496d",
+    "data": [
+      {
+        "text": "동아리",
+        "meta": "@club",
+        "alias": "club",
+        "userDefined": true
+      },
+      {
+        "text": "는 있어?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aba66a01-e357-4ebb-a2cf-a71952ce8cd2",
+    "data": [
+      {
+        "text": "전공",
+        "meta": "@department",
+        "alias": "department",
+        "userDefined": true
+      },
+      {
+        "text": "이 뭐야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "943225c6-a48b-442b-a394-62feb9a0b066",
+    "data": [
+      {
+        "text": "어느 ",
+        "userDefined": false
+      },
+      {
+        "text": "학과",
+        "meta": "@department",
+        "alias": "department",
+        "userDefined": true
+      },
+      {
+        "text": "인가요?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2ac9e10-27fe-4bcb-92a2-51d738884155",
+    "data": [
+      {
+        "text": "몇",
+        "userDefined": false
+      },
+      {
+        "text": "학년",
+        "meta": "@grade",
+        "alias": "grade",
+        "userDefined": true
+      },
+      {
+        "text": "이야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "030a36d6-9282-445e-b21b-431acd70817c",
+    "data": [
+      {
+        "text": "이름",
+        "meta": "@name",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": "을 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a21fb06-b77e-436f-a30d-845c41beb0c3",
+    "data": [
+      {
+        "text": "이름",
+        "meta": "@name",
+        "alias": "name",
+        "userDefined": true
+      },
+      {
+        "text": "이 뭔가요?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
